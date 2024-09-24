@@ -13,17 +13,17 @@ The steps I took to create this repository on my machine are as follows:
 6. Selected this new repository.
 7. Selected the option to copy a clone to my local machine. 
 
-# About Me #
+# About Me
 
 Hi, I’m Aaron Mooney. I’m an experienced professional with a background in Safety, Ergonomics, and User Interface Design. Although these seem like separate fields, they are a subset of an area called “Human Factors Engineering” – designing systems for humans. 
 
 Testing the effectiveness of interventions is common in each of these areas. While I learned Statistics in my undergraduate and graduate studies, I didn’t get much practice, and didn’t feel confident applying the methods. As a returning student, I’m studying Statistics and Analytics to improve my knowledge and confidence in these areas. 
 
-## My interests ##
+## My interests
 
 My interests revolve around the process of creating and building useful things. I’ve created many items, both functional and frivolous, ranging from a website that scores ergonomic risk factors (one of, if not the first of its kind), a prototype ‘parrot shower’, a garage bike lift, built-in cabinetry, and a retaining wall.
 
-## Websites I Recommend ##
+## Websites I Recommend
 
 [Internet Movie Database] (https://imdb.com). 
 I enjoy movies and historical series, and for whatever reason, I have a good memory for voices and faces. If I’m watching a program and I encounter a voice or face that seems familiar from another program, I’ll use IMDB.com to investigate.

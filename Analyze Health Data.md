@@ -1,9 +1,9 @@
+#### This is a flowchart demonstrating the data cleaning and analysis process for my final project in the Statistics II course at WakeTech.
 ```mermaid
 ---
 config:
   layout: dagre
 ---
-#### This is a flowchart demonstrating the data cleaning and analysis process for my final project in the Statistics II course at WakeTech.
 
 flowchart TD
     A(["Analyze Health Data"]) --> Z("Find Appropriate Data Set")

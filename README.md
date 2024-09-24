@@ -21,7 +21,12 @@ Testing the effectiveness of interventions is common in each of these areas. Whi
 
 ## My interests
 
-My interests revolve around the process of creating and building useful things. I’ve created many items, both functional and frivolous, ranging from a website that scores ergonomic risk factors (one of, if not the first of its kind), a prototype ‘parrot shower’, a garage bike lift, built-in cabinetry, and a retaining wall.
+My interests revolve around the process of creating and building useful things. I’ve created many items, both functional and frivolous, ranging from: 
+* A website that scores ergonomic risk factors (one of, if not the first of its kind)
+* A prototype ‘parrot shower’
+* A garage bike lift
+* Built-in cabinetry
+* A retaining wall.
 
 ## Websites I Recommend
 

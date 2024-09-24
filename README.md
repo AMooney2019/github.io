@@ -28,6 +28,8 @@ My interests revolve around the process of creating and building useful things. 
 * Built-in cabinetry
 * A retaining wall.
 
+I've built or designed many more items, but this was just a sample of them.
+
 ## Websites I Recommend
 
 [ Internet Movie Database ][def]. 

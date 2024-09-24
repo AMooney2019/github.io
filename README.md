@@ -25,8 +25,8 @@ My interests revolve around the process of creating and building useful things. 
 
 ## Websites I Recommend
 
-[Internet Movie Database] (https://imdb.com). 
+[ Internet Movie Database ] (https://imdb.com). 
 I enjoy movies and historical series, and for whatever reason, I have a good memory for voices and faces. If I’m watching a program and I encounter a voice or face that seems familiar from another program, I’ll use IMDB.com to investigate.
 
-[Strawberry Pop-Tart Blow Torches] (https://www.pmichaud.com/toast). 
+[ Strawberry Pop-Tart Blow Torches ] (https://www.pmichaud.com/toast). 
 Long ago, satirist Dave Barry wrote a book about technology and the internet. What’s memorable about the book was his mention of the first two internet memes. One of them, linked above, was about flaming Strawberry Poptarts. The other, not linked for various reasons, was about Chewbacca’s snack choices. You can find information about that one with a little digging. These are both examples of the wild world of the early internet. 

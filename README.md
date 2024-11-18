@@ -1,4 +1,4 @@
-# ammooney.github.io
+# AMooney2019/github.io
 GitHub repository for CTI 110
 
 Aaron Mooney
